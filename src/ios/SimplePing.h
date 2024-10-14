@@ -9,6 +9,7 @@
 @import Foundation;
 
 #include <AssertMacros.h>           // for __Check_Compile_Time
+#import <netinet/in.h> // SafeSky - Added for IOS18 compatibility
 
 NS_ASSUME_NONNULL_BEGIN
 
